@@ -11,7 +11,7 @@ host1 = "av-q8-db.csaruqlxxway.us-east-1.rds.amazonaws.com"
 port1 = 3306
 db_name = "av_q8_db"
 user1 = "av_q8_user"
-pwd = "av_q8_password"
+pwd = ""
 
 # queries
 qry_create = "CREATE TABLE Emp(eid int, ename varchar(30))"
