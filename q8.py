@@ -10,7 +10,7 @@ logger.setLevel(logging.INFO)
 host1 = "av-q8-db.csaruqlxxway.us-east-1.rds.amazonaws.com"
 port1 = 3306
 db_name = "av_q8_db"
-user1 = "av_q8_user"
+user1 = ""
 pwd = ""
 
 # queries
